@@ -23,7 +23,6 @@ pillow==10.2.0
 pyarmor==8.4.7
 pyarmor.cli.core==5.4.3
 pycodestyle==2.11.1
-pyfiglet==1.0.2
 Pygments==2.17.2
 pyTelegramBotAPI==4.12.0
 python-bidi==0.4.2
@@ -43,3 +42,4 @@ bs4
 faker
 user_agent
 fake_useragent
+pyfiglet
